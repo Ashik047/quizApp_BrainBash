@@ -1,18 +1,18 @@
 /* setting the backgroud image for the home, quiz and result pages */
 #home__container {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../public/homebg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/public/homebg.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #quiz__container {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../public/quizbg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/public/quizbg.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #result__container {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../public/resultbg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/public/resultbg.jpg");
     background-size: cover;
     background-position: center;
 }
